@@ -80,5 +80,8 @@ RUN: php artisan serve
 abra o link em seu navegador in http://localhost:8000
 
 <div align="center">
-  <img src="" >
+  <img src="https://user-images.githubusercontent.com/72527935/174625399-7b148a48-8509-4ca7-9bab-b0fcff552c41.png" >
+  <img src="https://user-images.githubusercontent.com/72527935/174625262-4904eaf9-d521-4097-be54-9e7fd68b3227.png" >
+  <img src="https://user-images.githubusercontent.com/72527935/174625488-d4e2503b-7644-4188-b438-3aaf3838bd2b.png" >
+  <img src="https://user-images.githubusercontent.com/72527935/174625541-1b760f88-cd94-4ca2-8353-acb178f75cd4.png" >
 </div>
